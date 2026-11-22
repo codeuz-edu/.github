@@ -1,0 +1,21 @@
+{
+  "name": "codeuz logo for light backgrounds",
+  "output": "logo-light.png",
+  "scale": 2,
+  "note": "Transparent background; the canvas is trimmed to the logo after drawing. Drawn at 900x320 and saved at 2x so it stays sharp on high-density screens.",
+  "width": 900,
+  "height": 320,
+  "background": "transparent",
+  "trim": true,
+  "layers": [
+    {
+      "type": "logo",
+      "x": 450,
+      "y": 160,
+      "align": "center",
+      "valign": "middle",
+      "font_size": 160,
+      "on": "light"
+    }
+  ]
+}

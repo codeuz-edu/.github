@@ -1,0 +1,19 @@
+{
+  "name": "codeuz square icon",
+  "output": "icon.png",
+  "scale": 2,
+  "note": "The icon.svg file drawn at 512x512. The sites use the SVG itself as their tab icon. Drawn at 512x512 and saved at 2x (1024x1024) so it stays sharp on high-density screens.",
+  "width": 512,
+  "height": 512,
+  "background": "transparent",
+  "layers": [
+    {
+      "type": "image",
+      "src": "icon.svg",
+      "x": 0,
+      "y": 0,
+      "width": 512,
+      "height": 512
+    }
+  ]
+}

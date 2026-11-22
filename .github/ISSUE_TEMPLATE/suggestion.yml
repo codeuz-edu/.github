@@ -1,0 +1,11 @@
+name: Suggestion
+description: A lesson, topic, book or feature you would like to see.
+labels: [suggestion]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: Say what is missing and who it would help.
+    validations:
+      required: true

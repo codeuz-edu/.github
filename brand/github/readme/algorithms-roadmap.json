@@ -1,0 +1,48 @@
+{
+  "name": "README banner: Algorithms Roadmap",
+  "output": "algorithms-roadmap.png",
+  "scale": 2,
+  "note": "Copy to assets/banner.png in the algorithms-roadmap repository. Drawn at 1280x300 and saved at 2x (2560x600), with transparent corners.",
+  "width": 1280,
+  "height": 300,
+  "background": "#000000",
+  "layers": [
+    {
+      "type": "logo",
+      "x": 640.0,
+      "y": 77.4,
+      "align": "center",
+      "valign": "middle",
+      "font_size": 40
+    },
+    {
+      "type": "text",
+      "text": "Algorithms Roadmap",
+      "x": 640.0,
+      "y": 136.2,
+      "align": "center",
+      "valign": "top",
+      "font": "Inter",
+      "size": 64,
+      "weight": 800,
+      "color": "#f4f6fc",
+      "letter_spacing_em": -0.03,
+      "line_height": 1.05
+    },
+    {
+      "type": "text",
+      "text": "Interview problems by topic, each with an editor and a Python solution.",
+      "x": 640.0,
+      "y": 217.4,
+      "align": "center",
+      "valign": "top",
+      "font": "Inter",
+      "size": 23,
+      "weight": 400,
+      "color": "#a3a9b5",
+      "letter_spacing_em": 0,
+      "line_height": 1.217
+    }
+  ],
+  "radius": 28.0
+}

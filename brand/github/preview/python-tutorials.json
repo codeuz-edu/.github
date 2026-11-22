@@ -1,0 +1,154 @@
+{
+  "name": "GitHub link preview: Python Foundations",
+  "output": "python-tutorials.png",
+  "scale": 2,
+  "note": "Upload under Settings, General, Social preview of the python-tutorials repository. GitHub asks for 1280x640. Drawn at 1280x640 and saved at 2x (2560x1280) so it stays sharp on high-density screens.",
+  "width": 1280,
+  "height": 640,
+  "background": "#0b0c10",
+  "layers": [
+    {
+      "type": "logo",
+      "x": 179.6,
+      "y": 96.8,
+      "align": "center",
+      "valign": "middle",
+      "font_size": 46
+    },
+    {
+      "type": "text",
+      "text": "COURSE 1 OF 4",
+      "x": 72,
+      "y": 300.0,
+      "align": "left",
+      "valign": "top",
+      "font": "Inter",
+      "size": 22,
+      "weight": 600,
+      "color": "#80aaff",
+      "letter_spacing_em": 0.12,
+      "line_height": 1.182
+    },
+    {
+      "type": "text",
+      "text": "Python Foundations",
+      "x": 72,
+      "y": 342.0,
+      "align": "left",
+      "valign": "top",
+      "font": "Inter",
+      "size": 84,
+      "weight": 800,
+      "color": "#f4f6fc",
+      "letter_spacing_em": -0.03,
+      "line_height": 1.05
+    },
+    {
+      "type": "text",
+      "text": "Learn Python from zero: read, run the code, check your exercises.",
+      "x": 72,
+      "y": 450.2,
+      "align": "left",
+      "valign": "top",
+      "font": "Inter",
+      "size": 28,
+      "weight": 400,
+      "color": "#a3a9b5",
+      "letter_spacing_em": 0,
+      "line_height": 1.35,
+      "max_width": 1000
+    },
+    {
+      "type": "rect",
+      "x": 72,
+      "y": 532,
+      "width": 153.7,
+      "height": 48,
+      "radius": 24.0,
+      "border": {
+        "width": 2,
+        "color": "#2c3140"
+      }
+    },
+    {
+      "type": "text",
+      "text": "73 lessons",
+      "x": 148.9,
+      "y": 556.0,
+      "align": "center",
+      "valign": "middle",
+      "font": "Inter",
+      "size": 22,
+      "weight": 600,
+      "color": "#f4f6fc",
+      "letter_spacing_em": 0,
+      "line_height": 1.2
+    },
+    {
+      "type": "rect",
+      "x": 239.7,
+      "y": 532,
+      "width": 146.3,
+      "height": 48,
+      "radius": 24.0,
+      "border": {
+        "width": 2,
+        "color": "#2c3140"
+      }
+    },
+    {
+      "type": "text",
+      "text": "6 projects",
+      "x": 312.9,
+      "y": 556.0,
+      "align": "center",
+      "valign": "middle",
+      "font": "Inter",
+      "size": 22,
+      "weight": 600,
+      "color": "#f4f6fc",
+      "letter_spacing_em": 0,
+      "line_height": 1.2
+    },
+    {
+      "type": "rect",
+      "x": 400,
+      "y": 532,
+      "width": 236.4,
+      "height": 48,
+      "radius": 24.0,
+      "border": {
+        "width": 2,
+        "color": "#2c3140"
+      }
+    },
+    {
+      "type": "text",
+      "text": "Uzbek and English",
+      "x": 518.2,
+      "y": 556.0,
+      "align": "center",
+      "valign": "middle",
+      "font": "Inter",
+      "size": 22,
+      "weight": 600,
+      "color": "#f4f6fc",
+      "letter_spacing_em": 0,
+      "line_height": 1.2
+    },
+    {
+      "type": "text",
+      "text": "codeuz-edu.github.io/python-tutorials",
+      "x": 1208.0,
+      "y": 543,
+      "align": "right",
+      "valign": "top",
+      "font": "Inter",
+      "size": 22,
+      "weight": 400,
+      "color": "#a3a9b5",
+      "letter_spacing_em": 0,
+      "line_height": 1.182
+    }
+  ]
+}

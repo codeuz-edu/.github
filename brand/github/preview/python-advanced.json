@@ -1,0 +1,154 @@
+{
+  "name": "GitHub link preview: Advanced Python",
+  "output": "python-advanced.png",
+  "scale": 2,
+  "note": "Upload under Settings, General, Social preview of the python-advanced repository. GitHub asks for 1280x640. Drawn at 1280x640 and saved at 2x (2560x1280) so it stays sharp on high-density screens.",
+  "width": 1280,
+  "height": 640,
+  "background": "#0b0c10",
+  "layers": [
+    {
+      "type": "logo",
+      "x": 179.6,
+      "y": 96.8,
+      "align": "center",
+      "valign": "middle",
+      "font_size": 46
+    },
+    {
+      "type": "text",
+      "text": "COURSE 2 OF 4",
+      "x": 72,
+      "y": 300.0,
+      "align": "left",
+      "valign": "top",
+      "font": "Inter",
+      "size": 22,
+      "weight": 600,
+      "color": "#80aaff",
+      "letter_spacing_em": 0.12,
+      "line_height": 1.182
+    },
+    {
+      "type": "text",
+      "text": "Advanced Python",
+      "x": 72,
+      "y": 342.0,
+      "align": "left",
+      "valign": "top",
+      "font": "Inter",
+      "size": 84,
+      "weight": 800,
+      "color": "#f4f6fc",
+      "letter_spacing_em": -0.03,
+      "line_height": 1.05
+    },
+    {
+      "type": "text",
+      "text": "How Python's own tools work, and the five SOLID principles.",
+      "x": 72,
+      "y": 450.2,
+      "align": "left",
+      "valign": "top",
+      "font": "Inter",
+      "size": 28,
+      "weight": 400,
+      "color": "#a3a9b5",
+      "letter_spacing_em": 0,
+      "line_height": 1.35,
+      "max_width": 1000
+    },
+    {
+      "type": "rect",
+      "x": 72,
+      "y": 532,
+      "width": 150.7,
+      "height": 48,
+      "radius": 24.0,
+      "border": {
+        "width": 2,
+        "color": "#2c3140"
+      }
+    },
+    {
+      "type": "text",
+      "text": "13 lessons",
+      "x": 147.4,
+      "y": 556.0,
+      "align": "center",
+      "valign": "middle",
+      "font": "Inter",
+      "size": 22,
+      "weight": 600,
+      "color": "#f4f6fc",
+      "letter_spacing_em": 0,
+      "line_height": 1.2
+    },
+    {
+      "type": "rect",
+      "x": 236.7,
+      "y": 532,
+      "width": 129.6,
+      "height": 48,
+      "radius": 24.0,
+      "border": {
+        "width": 2,
+        "color": "#2c3140"
+      }
+    },
+    {
+      "type": "text",
+      "text": "1 project",
+      "x": 301.5,
+      "y": 556.0,
+      "align": "center",
+      "valign": "middle",
+      "font": "Inter",
+      "size": 22,
+      "weight": 600,
+      "color": "#f4f6fc",
+      "letter_spacing_em": 0,
+      "line_height": 1.2
+    },
+    {
+      "type": "rect",
+      "x": 380.3,
+      "y": 532,
+      "width": 236.4,
+      "height": 48,
+      "radius": 24.0,
+      "border": {
+        "width": 2,
+        "color": "#2c3140"
+      }
+    },
+    {
+      "type": "text",
+      "text": "Uzbek and English",
+      "x": 498.5,
+      "y": 556.0,
+      "align": "center",
+      "valign": "middle",
+      "font": "Inter",
+      "size": 22,
+      "weight": 600,
+      "color": "#f4f6fc",
+      "letter_spacing_em": 0,
+      "line_height": 1.2
+    },
+    {
+      "type": "text",
+      "text": "codeuz-edu.github.io/python-advanced",
+      "x": 1208.0,
+      "y": 543,
+      "align": "right",
+      "valign": "top",
+      "font": "Inter",
+      "size": 22,
+      "weight": 400,
+      "color": "#a3a9b5",
+      "letter_spacing_em": 0,
+      "line_height": 1.182
+    }
+  ]
+}

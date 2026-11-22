@@ -1,0 +1,19 @@
+{
+  "name": "GitHub organization picture",
+  "output": "avatar.png",
+  "scale": 2,
+  "note": "The logo on a black square, 83% of the width. Drawn at 1024x1024 and saved at 2x (2048x2048) so it stays sharp on high-density screens.",
+  "width": 1024,
+  "height": 1024,
+  "background": "#000000",
+  "layers": [
+    {
+      "type": "logo",
+      "x": 512,
+      "y": 512,
+      "align": "center",
+      "valign": "middle",
+      "font_size": 180
+    }
+  ]
+}

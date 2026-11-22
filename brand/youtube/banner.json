@@ -1,0 +1,266 @@
+{
+  "name": "YouTube channel banner",
+  "output": "banner.png",
+  "scale": 2,
+  "note": "Drawn at 2560x1440 and saved at 2x (5120x2880) so it stays sharp on high-density screens.",
+  "width": 2560,
+  "height": 1440,
+  "background": "#000000",
+  "safe_area": {
+    "x": 507,
+    "y": 508,
+    "width": 1546,
+    "height": 423,
+    "note": "YouTube shows only this central area on phones; desktop shows the full width at this height; TV shows everything. The logo and text stay inside it. The code on the left and the linked list on the right sit outside it on purpose: they fill the desktop strip."
+  },
+  "layers": [
+    {
+      "type": "text",
+      "text": "def binary_search(a, x):",
+      "x": 70,
+      "y": 600,
+      "align": "left",
+      "valign": "middle",
+      "font": "JetBrains Mono",
+      "size": 25,
+      "weight": 800,
+      "color": "#4a5266",
+      "letter_spacing_em": 0,
+      "line_height": 1.15
+    },
+    {
+      "type": "text",
+      "text": "    lo, hi = 0, len(a) - 1",
+      "x": 70,
+      "y": 648,
+      "align": "left",
+      "valign": "middle",
+      "font": "JetBrains Mono",
+      "size": 25,
+      "weight": 800,
+      "color": "#4a5266",
+      "letter_spacing_em": 0,
+      "line_height": 1.15
+    },
+    {
+      "type": "text",
+      "text": "    while lo <= hi:",
+      "x": 70,
+      "y": 696,
+      "align": "left",
+      "valign": "middle",
+      "font": "JetBrains Mono",
+      "size": 25,
+      "weight": 800,
+      "color": "#4a5266",
+      "letter_spacing_em": 0,
+      "line_height": 1.15
+    },
+    {
+      "type": "text",
+      "text": "        mid = (lo + hi) // 2",
+      "x": 70,
+      "y": 744,
+      "align": "left",
+      "valign": "middle",
+      "font": "JetBrains Mono",
+      "size": 25,
+      "weight": 800,
+      "color": "#4a5266",
+      "letter_spacing_em": 0,
+      "line_height": 1.15
+    },
+    {
+      "type": "text",
+      "text": "        if a[mid] == x:",
+      "x": 70,
+      "y": 792,
+      "align": "left",
+      "valign": "middle",
+      "font": "JetBrains Mono",
+      "size": 25,
+      "weight": 800,
+      "color": "#4a5266",
+      "letter_spacing_em": 0,
+      "line_height": 1.15
+    },
+    {
+      "type": "text",
+      "text": "            return mid",
+      "x": 70,
+      "y": 840,
+      "align": "left",
+      "valign": "middle",
+      "font": "JetBrains Mono",
+      "size": 25,
+      "weight": 800,
+      "color": "#4a5266",
+      "letter_spacing_em": 0,
+      "line_height": 1.15
+    },
+    {
+      "type": "rect",
+      "x": 2110,
+      "y": 690,
+      "width": 84,
+      "height": 84,
+      "radius": 12,
+      "border": {
+        "width": 3,
+        "color": "#4a5266"
+      }
+    },
+    {
+      "type": "text",
+      "text": "12",
+      "x": 2152,
+      "y": 732,
+      "align": "center",
+      "valign": "middle",
+      "font": "Inter",
+      "size": 30,
+      "weight": 700,
+      "color": "#4a5266",
+      "letter_spacing_em": 0,
+      "line_height": 1.15
+    },
+    {
+      "type": "rect",
+      "x": 2194,
+      "y": 731,
+      "width": 56,
+      "height": 3,
+      "radius": 0,
+      "fill": "#4a5266"
+    },
+    {
+      "type": "rect",
+      "x": 2250,
+      "y": 690,
+      "width": 84,
+      "height": 84,
+      "radius": 12,
+      "border": {
+        "width": 3,
+        "color": "#80aaff"
+      }
+    },
+    {
+      "type": "text",
+      "text": "7",
+      "x": 2292,
+      "y": 732,
+      "align": "center",
+      "valign": "middle",
+      "font": "Inter",
+      "size": 30,
+      "weight": 700,
+      "color": "#80aaff",
+      "letter_spacing_em": 0,
+      "line_height": 1.15
+    },
+    {
+      "type": "rect",
+      "x": 2334,
+      "y": 731,
+      "width": 56,
+      "height": 3,
+      "radius": 0,
+      "fill": "#4a5266"
+    },
+    {
+      "type": "rect",
+      "x": 2390,
+      "y": 690,
+      "width": 84,
+      "height": 84,
+      "radius": 12,
+      "border": {
+        "width": 3,
+        "color": "#4a5266"
+      }
+    },
+    {
+      "type": "text",
+      "text": "31",
+      "x": 2432,
+      "y": 732,
+      "align": "center",
+      "valign": "middle",
+      "font": "Inter",
+      "size": 30,
+      "weight": 700,
+      "color": "#4a5266",
+      "letter_spacing_em": 0,
+      "line_height": 1.15
+    },
+    {
+      "type": "text",
+      "text": "head",
+      "x": 2152,
+      "y": 634,
+      "align": "center",
+      "valign": "middle",
+      "font": "Inter",
+      "size": 22,
+      "weight": 600,
+      "color": "#4a5266",
+      "letter_spacing_em": 0,
+      "line_height": 1.15
+    },
+    {
+      "type": "rect",
+      "x": 2151,
+      "y": 654,
+      "width": 3,
+      "height": 28,
+      "radius": 0,
+      "fill": "#4a5266"
+    },
+    {
+      "type": "logo",
+      "x": 850,
+      "y": 720,
+      "align": "center",
+      "valign": "middle",
+      "font_size": 112
+    },
+    {
+      "type": "rect",
+      "x": 1168,
+      "y": 600,
+      "width": 3,
+      "height": 240,
+      "radius": 0,
+      "fill": "#2c3140"
+    },
+    {
+      "type": "text",
+      "text": "IT va dasturlaş\ndarslari.",
+      "x": 1220,
+      "y": 690,
+      "align": "left",
+      "valign": "middle",
+      "font": "Inter",
+      "size": 68,
+      "weight": 800,
+      "color": "#f4f6fc",
+      "letter_spacing_em": -0.03,
+      "line_height": 1.08
+    },
+    {
+      "type": "text",
+      "text": "Sodda tilda, amaliy misollar bilan.",
+      "x": 1220,
+      "y": 812,
+      "align": "left",
+      "valign": "middle",
+      "font": "Inter",
+      "size": 30,
+      "weight": 500,
+      "color": "#a3a9b5",
+      "letter_spacing_em": 0,
+      "line_height": 1.15
+    }
+  ]
+}

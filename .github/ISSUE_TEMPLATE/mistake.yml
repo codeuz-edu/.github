@@ -1,0 +1,24 @@
+name: Mistake on a page
+description: A typo, wrong output, broken link or unclear explanation.
+labels: [mistake]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: Paste the address of the page.
+      placeholder: https://codeuz-edu.github.io/python-tutorials/en/lessons/variables
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: Quote the sentence or code, and say what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: Suggested fix
+      description: Optional. How you would write it.

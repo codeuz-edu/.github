@@ -1,0 +1,20 @@
+{
+  "name": "Link preview: codeuz home page",
+  "output": "codeuz-edu.github.io.png",
+  "scale": 2,
+  "note": "The link preview (og:image) of codeuz-edu.github.io, and the Social preview of the codeuz-edu.github.io repository. Drawn at 1280x640 and saved at 2x, like the course previews.",
+  "width": 1280,
+  "height": 640,
+  "background": "#0b0c10",
+  "layers": [
+    { "type": "logo", "x": 179.6, "y": 96.8, "align": "center", "valign": "middle", "font_size": 46 },
+    { "type": "text", "text": "codeuz özbek tilidagi taʼlim loyihasi", "x": 72, "y": 292.0, "align": "left", "valign": "top", "font": "Inter", "size": 72, "weight": 800, "color": "#f4f6fc", "letter_spacing_em": -0.03, "line_height": 1.08, "max_width": 760 },
+    { "type": "rect", "x": 72, "y": 532, "width": 125, "height": 48, "radius": 24.0, "border": { "width": 2, "color": "#2c3140" } },
+    { "type": "text", "text": "Python", "x": 134.5, "y": 556.0, "align": "center", "valign": "middle", "font": "Inter", "size": 22, "weight": 600, "color": "#f4f6fc", "letter_spacing_em": 0, "line_height": 1.2 },
+    { "type": "rect", "x": 211, "y": 532, "width": 168, "height": 48, "radius": 24.0, "border": { "width": 2, "color": "#2c3140" } },
+    { "type": "text", "text": "Algoritmlar", "x": 295, "y": 556.0, "align": "center", "valign": "middle", "font": "Inter", "size": 22, "weight": 600, "color": "#f4f6fc", "letter_spacing_em": 0, "line_height": 1.2 },
+    { "type": "rect", "x": 393, "y": 532, "width": 110, "height": 48, "radius": 24.0, "border": { "width": 2, "color": "#2c3140" } },
+    { "type": "text", "text": "Fizika", "x": 448, "y": 556.0, "align": "center", "valign": "middle", "font": "Inter", "size": 22, "weight": 600, "color": "#f4f6fc", "letter_spacing_em": 0, "line_height": 1.2 },
+    { "type": "text", "text": "codeuz-edu.github.io", "x": 1208.0, "y": 543, "align": "right", "valign": "top", "font": "Inter", "size": 22, "weight": 400, "color": "#a3a9b5", "letter_spacing_em": 0, "line_height": 1.182 }
+  ]
+}

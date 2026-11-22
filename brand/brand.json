@@ -1,0 +1,74 @@
+{
+  "name": "codeuz",
+  "colors": {
+    "black": "#000000",
+    "ink": "#f4f6fc",
+    "blue": "#80aaff",
+    "muted": "#a3a9b5",
+    "line": "#2c3140",
+    "card": "#0b0c10",
+    "ink_on_light": "#16181d",
+    "blue_on_light": "#2563eb"
+  },
+  "fonts": {
+    "text": {
+      "family": "Inter",
+      "weights": [
+        400,
+        500,
+        600,
+        700,
+        800
+      ]
+    },
+    "logo": {
+      "family": "JetBrains Mono",
+      "weights": [
+        800
+      ]
+    },
+    "source": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@800&display=block"
+  },
+  "logo": {
+    "note": "The word \"code\" in ink, \"uz\" in blue, then a blue cursor bar, inside a rounded outline. Every length is a multiple of the logo font size, so one number (font_size) scales the whole mark.",
+    "text": [
+      "code",
+      "uz"
+    ],
+    "font": "JetBrains Mono",
+    "weight": 800,
+    "letter_spacing_em": -0.04,
+    "line_height": 1,
+    "border_em": 0.065,
+    "radius_em": 0.16,
+    "padding_em": {
+      "top": 0.1,
+      "right": 0.34,
+      "bottom": 0.24,
+      "left": 0.32
+    },
+    "cursor_em": {
+      "width": 0.5,
+      "height": 0.11,
+      "gap": 0.07
+    },
+    "colors": {
+      "on_dark": {
+        "code": "#f4f6fc",
+        "uz": "#80aaff",
+        "cursor": "#80aaff",
+        "outline": "#f4f6fc"
+      },
+      "on_light": {
+        "code": "#16181d",
+        "uz": "#2563eb",
+        "cursor": "#2563eb",
+        "outline": "#16181d"
+      }
+    }
+  },
+  "icon": {
+    "file": "logo/icon.svg",
+    "note": "A prompt and a cursor in white on a blue (#2563eb) rounded square. The SVG file is its full description."
+  }
+}

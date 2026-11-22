@@ -1,0 +1,27 @@
+{
+  "name": "YouTube channel picture",
+  "output": "avatar.png",
+  "scale": 2,
+  "note": "Drawn at 1024x1024 and saved at 2x (2048x2048) so it stays sharp on high-density screens.",
+  "width": 1024,
+  "height": 1024,
+  "background": "#000000",
+  "safe_area": {
+    "x": 0,
+    "y": 0,
+    "width": 1024,
+    "height": 1024,
+    "shape": "circle",
+    "note": "Shown as a circle, as small as 36px. Keep the logo inside the circle that touches the four edges."
+  },
+  "layers": [
+    {
+      "type": "logo",
+      "x": 512,
+      "y": 512,
+      "align": "center",
+      "valign": "middle",
+      "font_size": 180
+    }
+  ]
+}
